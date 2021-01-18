@@ -1,3 +1,7 @@
+/*
+ * Create a method which accepts an array of numbers and returns the numbers and their squares in Hashmap
+ * @author Vegesna.Harshitha
+ */
 package collection;
 
 import java.util.*;

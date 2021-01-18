@@ -1,3 +1,7 @@
+/*
+ * Create a method which accepts an integer array, reverse the numbers in the array and returns the resulting array in sorted order
+ * @author Vegesna.Harshitha
+ */
 package collection;
 
 import java.util.ArrayList;

@@ -1,3 +1,7 @@
+/*
+ * school offers medals to the students of tenth based on the following criteria 
+ * @author Vegesna.Harshitha
+ */
 package collection;
 import java.util.HashMap;
 import java.util.Set;
